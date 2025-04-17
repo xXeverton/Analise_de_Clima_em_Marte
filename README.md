@@ -46,3 +46,10 @@ Este projeto faz parte do desafio técnico da Aleon e consiste na análise de da
     ```bash
     jupyter notebook
     ```
+
+## 📌 Conclusões
+- A temperatura média em Marte é extremamente baixa, com variações entre -63°C e -62°C nos últimos sols registrados.
+- A pressão atmosférica permanece consistentemente baixa, como esperado para o ambiente marciano.
+- A velocidade do vento varia, mas geralmente está entre 5–8 m/s.
+- A regressão linear indica uma leve tendência de resfriamento nos últimos dias analisados, possivelmente associada à mudança de estação.
+- O mapa de correlação mostra uma relação direta entre temperatura mínima, média e máxima, como esperado. A pressão e o vento não demonstram correlação forte com outras variáveis nesse intervalo de dados.
