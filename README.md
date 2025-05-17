@@ -122,5 +122,4 @@ Isso abrirá o painel interativo no navegador.
 
 ## 👨‍💻 Desenvolvido por Everton Pereira Militão
 
-Desafio Técnico - Aleon 2025  
 *com Python, ciência de dados e muita curiosidade espacial 🚀*
